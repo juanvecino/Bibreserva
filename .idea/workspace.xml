@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf45f1e3-300a-4e24-bb9c-2d7c16041ce9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="bf45f1e3-300a-4e24-bb9c-2d7c16041ce9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +72,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1771" height="279" key="GridCell.Tab.0.bottom" timestamp="1604839748249">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state width="1771" height="279" key="GridCell.Tab.0.bottom/0.23.1792.1025@0.23.1792.1025" timestamp="1604839748249" />
+    <state width="1771" height="279" key="GridCell.Tab.0.center" timestamp="1604839748248">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state width="1771" height="279" key="GridCell.Tab.0.center/0.23.1792.1025@0.23.1792.1025" timestamp="1604839748248" />
+    <state width="1771" height="279" key="GridCell.Tab.0.left" timestamp="1604839748248">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state width="1771" height="279" key="GridCell.Tab.0.left/0.23.1792.1025@0.23.1792.1025" timestamp="1604839748248" />
+    <state width="1771" height="279" key="GridCell.Tab.0.right" timestamp="1604839748249">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state width="1771" height="279" key="GridCell.Tab.0.right/0.23.1792.1025@0.23.1792.1025" timestamp="1604839748249" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
