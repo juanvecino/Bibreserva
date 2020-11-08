@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf45f1e3-300a-4e24-bb9c-2d7c16041ce9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clientes.csv" afterDir="false" />
-    </list>
+    <list default="true" id="bf45f1e3-300a-4e24-bb9c-2d7c16041ce9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,10 +97,10 @@
       <screen x="0" y="23" width="1792" height="1025" />
     </state>
     <state width="1771" height="279" key="GridCell.Tab.0.right/0.23.1792.1025@0.23.1792.1025" timestamp="1604839748249" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604844069128">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604844269949">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604844069128" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1604844269949" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
