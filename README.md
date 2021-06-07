@@ -6,5 +6,8 @@ We aim to make students more focus on their studies. To do this, we automate the
 ## Example Code:
 
 
-https://user-images.githubusercontent.com/49287699/121063555-c22b4600-c7c6-11eb-97b3-8ebb8ab0c900.mp4
+
+https://user-images.githubusercontent.com/49287699/121065246-d83a0600-c7c8-11eb-9326-91cfdb0aa69a.mp4
+
+
 
