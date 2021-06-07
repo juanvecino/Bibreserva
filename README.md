@@ -5,9 +5,4 @@ We aim to make students more focus on their studies. To do this, we automate the
 
 ## Example Code:
 
-
-
-https://user-images.githubusercontent.com/49287699/121065246-d83a0600-c7c8-11eb-9326-91cfdb0aa69a.mp4
-
-
-
+https://user-images.githubusercontent.com/49287699/121065443-10414900-c7c9-11eb-92ec-6caac2ce21d4.mp4
